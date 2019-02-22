@@ -1,0 +1,175 @@
+body{
+	background-image: url(https://nellycherry.files.wordpress.com/2016/08/fantasy.jpg);
+	background-repeat: no-repeat;
+}
+#en-tete{
+	border-top: 3px solid #a5a6ab;
+	border-right: 3px solid #a5a6ab;
+	border-left: 3px solid #a5a6ab;
+	border-radius: 3px;
+	width: 85%;
+	margin-left: 7%;
+}
+ul{
+	display: flex;
+	width: 75vw;
+	justify-content: space-around;
+	list-style-type: none;
+	margin-top: 0%;
+	text-decoration: underline #a5a6ab;
+}
+#resume{
+	border: 3px solid  #a5a6ab;
+	border-radius: 3px;
+	width: 84%;
+	margin-left: 7%;
+	font-size: 1.03em;
+	padding: 0.5%;
+}
+#lisere{
+	background-color: #00ffff77;;
+	border: 1px solid;
+	border-radius: 30px;
+	width: 80%;
+	height: 10%;
+	margin-top: 1%;
+}
+h1{
+	margin-top: 0%;
+}
+#paragraphe{
+	display: flex;
+	align-content: flex-end;
+	text-align: center;
+	color: #a5a6ab;
+}
+h2{
+	margin-top: 0.5%;
+}
+#titre{
+	display: flex;
+	justify-content: space-around;
+	margin-left: 5%;
+}
+#contenu{
+	display: flex;
+	justify-content: space-around;
+}
+.para{
+	display: flex;
+	justify-content: space-around;
+	align-content: center;
+	border: 3px solid #a5a6ab;
+	border-radius: 3px;
+	width: 76%;
+	height: auto;
+	margin-left: 12%;
+	margin-bottom: 1%;
+	text-align: justify;
+	font-size: 1.3em;
+}
+.manga{
+	display: flex;
+	padding: 0.5%;
+	width: 10%;
+}
+#tableau{
+	width: 74.5%;
+	margin-left: 12%;
+	border: 3px solid #a5a6ab;
+	border-radius: 3px;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	padding: 1%;
+}
+#attendant{
+	display: flex;
+}
+#moi{
+	display: flex;
+	justify-content: space-between;
+	
+	margin-left: -0.5%;
+
+}
+table{
+	border: 3px solid #a5a6ab;
+	width: 33%;
+	
+}
+.trente{
+	opacity: 0.55;
+}
+.colspan{
+	background-image: url(https://redknight.ca/images/betty_boop_images/bettyBiker.gif);
+	background-repeat: no-repeat;
+	padding: 10%;
+	border-bottom: 1px solid;
+	font-size: 3.2em;
+
+}
+td, tr{
+	box-shadow: 3px 1px 1px black;
+	text-align: center;
+	color: black;
+}
+.jours{
+	font-size: 1em;
+}
+.lapin{
+	width: 5vw;
+
+}
+.lapine{
+	width: 5vw;
+}
+footer{
+	padding: 0.5%;
+	display: flex;
+	justify-content: space-between;
+	border: 3px solid #a5a6ab;
+	border-radius: 3px;
+	width: 86%;
+	margin-left: 7%;
+	background-color: #ffffff;
+}
+#foot{
+	text-align: center;
+	font-size: 0.5em;
+	color: black;
+
+}
+header{
+	display: flex;
+	align-items: flex-end;
+	width: 100%;
+	background-color: #ffffff;
+}
+.lire{
+	color: #ffffff;
+	border: 3px solid #a5a6ab;
+	border-radius: 5px;
+	margin-left: 0%;
+	margin-top: 8%;
+	margin-bottom: 1%;
+	font-size: 1em;
+	padding: 0.3%;
+}
+p{
+	color: #a5a6ab;
+}
+#marge{
+	margin-bottom: 1.5%;
+}
+.lien{
+	width: 100%;
+}
+.fbkT{
+	width: 10%;
+}
+#classe{
+	display: flex;
+	flex-direction: row-reverse;
+	align-items: flex-end;
+	justify-content: flex-start;
+}

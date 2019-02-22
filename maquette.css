@@ -1,7 +1,7 @@
 
 body{
-	background-image: url(https://nellycherry.files.wordpress.com/2016/08/fantasy.jpg);
-	background-repeat: no-repeat;
+	background-color: #363d54;
+	background-image: url("https://www.transparenttextures.com/patterns/foggy-birds.png");
 }
 #en-tete{
 	border-top: 3px solid #a5a6ab;
@@ -17,7 +17,12 @@ ul{
 	justify-content: space-around;
 	list-style-type: none;
 	margin-top: 0%;
-	text-decoration: underline #a5a6ab;
+}
+span{
+	border: 1px solid;
+	height: 0.5vw;
+	width: 10%;
+
 }
 #resume{
 	border: 3px solid  #a5a6ab;
@@ -32,7 +37,7 @@ ul{
 	border: 1px solid;
 	border-radius: 30px;
 	width: 80%;
-	height: 10%;
+	height: 1.3vw;
 	margin-top: 1%;
 }
 h1{
@@ -62,9 +67,9 @@ h2{
 	align-content: center;
 	border: 3px solid #a5a6ab;
 	border-radius: 3px;
-	width: 76%;
+	width: 85%;
 	height: auto;
-	margin-left: 12%;
+	margin-left: 7%;
 	margin-bottom: 1%;
 	text-align: justify;
 	font-size: 1.3em;
@@ -75,8 +80,8 @@ h2{
 	width: 10%;
 }
 #tableau{
-	width: 74.5%;
-	margin-left: 12%;
+	width: 83%;
+	margin-left: 7%;
 	border: 3px solid #a5a6ab;
 	border-radius: 3px;
 	margin-top: 1%;
@@ -95,7 +100,9 @@ h2{
 }
 table{
 	border: 3px solid #a5a6ab;
-	width: 33%;
+	width: 20%;
+	margin-left: 7%;
+	margin-right: 10%;
 	
 }
 .trente{
@@ -130,7 +137,7 @@ footer{
 	justify-content: space-between;
 	border: 3px solid #a5a6ab;
 	border-radius: 3px;
-	width: 86%;
+	width: 84%;
 	margin-left: 7%;
 	background-color: #ffffff;
 }

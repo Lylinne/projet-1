@@ -39,7 +39,7 @@ span{
 	border-radius: 30px;
 	width: 80%;
 	height: 1.3vw;
-	margin-top: 1%;
+	margin-top: 0.9%;
 }
 h1{
 	margin-top: 0%;
@@ -95,7 +95,6 @@ h2{
 #moi{
 	display: flex;
 	justify-content: space-between;
-	
 	margin-left: -0.5%;
 
 }
@@ -105,18 +104,44 @@ table{
 	margin-left: 7%;
 	margin-right: 10%;
 	height: 287px;
+	background-color: #c5f0ec;
 	
 }
-.trente{
+.claire{
 	opacity: 0.55;
 }
-.colspan{
+#treize{
+	background-color: #f0e2c5;
+}
+#vingt{
+	background-color: beige;
+}
+#trente{
+	background-color: #e8c5f0;
+}
+#avril{
 	background-image: url(https://redknight.ca/images/betty_boop_images/bettyBiker.gif);
 	background-repeat: no-repeat;
 	padding: 10%;
 	border-bottom: 1px solid;
 	font-size: 3.2em;
-
+	background-color: beige;
+}
+#mai{
+	background-image: url(https://redknight.ca/images/betty_boop_images/bettyBiker.gif);
+	background-repeat: no-repeat;
+	padding: 10%;
+	border-bottom: 1px solid;
+	font-size: 3.2em;
+	background-color:  #f0e2c5;
+}
+#juin{
+	background-image: url(https://redknight.ca/images/betty_boop_images/bettyBiker.gif);
+	background-repeat: no-repeat;
+	padding: 10%;
+	border-bottom: 1px solid;
+	font-size: 3.2em;
+	background-color:  #e8c5f0;
 }
 td, tr{
 	box-shadow: 3px 1px 1px black;

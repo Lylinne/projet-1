@@ -3,12 +3,13 @@ div{
 	border-radius: 30px;
 	width: 20%;
 	height: 5vw;
-	margin: 2%;
 	padding: 0.1%;
+	margin-top: 2%;
 }
 section{
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: space-around;
 	border: 3px solid;
 	border-radius: 10px;
 	width: 30%;

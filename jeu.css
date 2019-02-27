@@ -1,0 +1,25 @@
+div{
+	border: 1px solid;
+	border-radius: 30px;
+	width: 20%;
+	height: 5vw;
+	margin: 2%;
+	padding: 0.1%;
+}
+section{
+	display: flex;
+	flex-wrap: wrap;
+	border: 3px solid;
+	border-radius: 10px;
+	width: 30%;
+	height: 25vw;
+	margin-left: 35%;
+	background-color: beige;
+}
+header{
+	text-align: center;
+}
+body{
+	background-color: #4f959e;
+	background-image: url("https://www.transparenttextures.com/patterns/argyle.png");
+}
